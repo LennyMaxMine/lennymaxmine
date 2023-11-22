@@ -1,11 +1,11 @@
 # Hi there, I'm LennyMaxMine 👋
 
 ## About Me 👨‍🦲
-I am a motivated and curious software enthusiast based in Germany, who is writing small private projects.
+I like coding.
 
 ## My Interests 🖼️
-- 🌱 Coding with Python, learning new things
-- 💻 Python is my go-to languages for most of my projects.
+- 🌱 Coding with Python
+- 📖 Learning new things
 
 ## What I'm Working On 👷‍♂️
 - 💻 Private Projects
