@@ -1,7 +1,7 @@
 # Hi there, I'm LennyMaxMine 👋
 
 ## About Me 👨‍🦲
-I like coding.
+- I like coding.
 
 ## My Interests 🖼️
 - 🌱 Coding with Python
