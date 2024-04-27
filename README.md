@@ -1,6 +1,6 @@
 # Hi there, I'm LennyMaxMine 👋
 
-[![My Skills](https://skillicons.dev/icons?i=py,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,flask,vscode,linux,windows,raspberrypi,replit)](https://skillicons.dev)
 
 ## About Me 👨‍🦲
 - I like coding.
