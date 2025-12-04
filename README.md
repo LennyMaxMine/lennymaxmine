@@ -1,6 +1,6 @@
 <div align="center">
 
-#    Hi there, I'm Lenny! 👋
+# Hi there, I'm Lenny! 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Work+Sans&size=30&duration=4000&pause=1000&color=D0A0DA&background=FF000000&center=true&vCenter=true&random=true&width=435&lines=Open+source+lover;Teenage+coder;Homelab+builder;Arch+linux+user+(btw))](https://git.io/typing-svg)
 </div>
@@ -32,28 +32,16 @@ I'm a teenage coder from Frankfurt in Germany building cool projects at home and
 
 ## 💻 Tech Stack
 
-### Languages
 [![My Skills](https://skillicons.dev/icons?i=python,kotlin,swift,js,html,lua&theme=dark)](https://skillicons.dev)
-
-### Frameworks & Libraries
-[![My Skills](https://skillicons.dev/icons?i=flutter,tailwind,tauri&theme=dark)](https://skillicons.dev)
-
-### Cloud & Infrastructure
+[![My Skills](https://skillicons.dev/icons?i=flutter,tailwind&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=cloudflare,nginx,firebase&theme=dark)](https://skillicons.dev)
-
-### DevOps & Tools
 [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,git,github,selenium&theme=dark)](https://skillicons.dev)
-
-### Design
 [![My Skills](https://skillicons.dev/icons?i=figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sqlite&theme=dark)](https://skillicons.dev)
+
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![GIMP](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
-
-### Databases
-[![My Skills](https://skillicons.dev/icons?i=sqlite&theme=dark)](https://skillicons.dev)
-
-### Self-Hosted & Home Lab
 ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white)
 ![Homebridge](https://img.shields.io/badge/homebridge-%23491F59.svg?style=for-the-badge&logo=homebridge&logoColor=white)
 ![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC)
