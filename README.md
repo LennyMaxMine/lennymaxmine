@@ -1,25 +1,25 @@
 <div align="center">
 
-# Hi there, I'm Lenny! 👋
+# Hey there, I'm Lenny!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Work+Sans&size=30&duration=4000&pause=1000&color=D0A0DA&background=FF000000&center=true&vCenter=true&random=true&width=435&lines=Open+source+lover;Teenage+coder;Homelab+builder;Arch+linux+user+(btw))](https://git.io/typing-svg)
 </div>
 
 ---
 
-## 💫 About Me
+## About Me
 
 I'm a teenage coder from Frankfurt in Germany building cool projects at home and giving his best try at building a homelab. I mainly code in python but am currently exploring and learning other languages!
 
-🔭 Currently working on **private projects**, mainly focused on python  
-👯 Open to **collaboration** on almost anything - just hmu!  
-🌱 Learning to write **meaningful git commit messages** (pls don't look at mine)             
-💬 Open to chat about **Python, Web Development, or Home Lab setups**  
-⚡ Fun fact: I love overcomplicating everything with kubernetes instead of docker!
+- Currently working on **private projects**, mainly focused on python  
+- Open to **collaboration** on almost anything - just hmu!  
+- Learning to write **meaningful git commit messages** (pls don't look at mine)             
+- Open to chat about **Python, Web Development, or Home Lab setups**  
+- Fun fact: I love overcomplicating everything with kubernetes instead of docker!
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -30,7 +30,7 @@ I'm a teenage coder from Frankfurt in Germany building cool projects at home and
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=python,kotlin,swift,js,html,lua&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=flutter,tailwind&theme=dark)](https://skillicons.dev)
@@ -51,7 +51,7 @@ I'm a teenage coder from Frankfurt in Germany building cool projects at home and
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -72,7 +72,7 @@ I'm a teenage coder from Frankfurt in Germany building cool projects at home and
 ---
 
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -82,7 +82,7 @@ I'm a teenage coder from Frankfurt in Germany building cool projects at home and
 
 ---
 
-## 📫 Visitor Count
+## Visitor Count - broken ):
 
 <div align="center">
 
@@ -94,7 +94,7 @@ I'm a teenage coder from Frankfurt in Germany building cool projects at home and
 
 <div align="center">
 
-## 💰 Support My Work
+## Support My Work
 
 If you wan't to support me, consider giving me your money! :D
 
@@ -106,8 +106,8 @@ If you wan't to support me, consider giving me your money! :D
 
 <div align="center">
 
-### ⚡ "A bad commit message is meaningless, as long as the commit is great" – me
+### "A bad commit message is meaningless, as long as the commit is great" – me
 
-Made with ❤️ by me in Frankfurt, Germany
+Made with <3 by me in Frankfurt, Germany
 
 </div>
